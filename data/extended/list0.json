@@ -44,11 +44,11 @@
                     "offset": "0,-0.5,0,0",
                     "enumerate": true,
                     "color": "msx-glass",
-                    "titleHeader": "{col:msx-white}First Item",
-                    "titleFooter": "Duis rutrum orci purus",
+                    "titleHeader": "{col:msx-white}UAFLIX",
+                    "titleFooter": "UAFLIX",
                     "imageFiller": "cover",
-                    "image": "https://picsum.photos/seed/msx_24764bb8_item0/408/252",
-                    "action": "image:https://picsum.photos/seed/msx_24764bb8_item0/1920/1080",
+                    "image": "https://uafix.net/pic/uaflix-main.jpg",
+                    "action": "link:https://uafix.net/",
                     "properties": {
                         "image:extension": "| {col:msx-white}First Item"
                     }
