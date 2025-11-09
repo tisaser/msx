@@ -24,6 +24,11 @@
             "headline": "First Page",
             "items": [
                 {
+                    "title": "UAFLIX",
+                    "image": "https://uafix.net/pic/uaflix-main.jpg",
+                    "action": "link:https://uafix.net/"
+                },
+                {
                     "type": "space",
                     "layout": "1,0,11,1",
                     "offset": "-1,0,1,-0.5",
