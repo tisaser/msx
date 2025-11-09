@@ -24,6 +24,7 @@
             "headline": "First Page",
             "items": [
                 {
+                    "type": "default",
                     "title": "UAFLIX",
                     "image": "https://uafix.net/pic/uaflix-main.jpg",
                     "action": "link:https://uafix.net/"
