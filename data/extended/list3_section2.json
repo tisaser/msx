@@ -30,28 +30,28 @@
                     "layout": "0,2,3,1",
                     "color": "transparent",
                     "label": "First Section",
-                    "action": "[invalidate:content|replace:content:tabs:https://benzac-de.github.io/msx/data/extended/list3_section0.json]"
+                    "action": "[invalidate:content|replace:content:tabs:https://tisaser.github.io/msx/data/extended/list3_section0.json]"
                 },
                 {
                     "type": "default",
                     "layout": "3,2,3,1",
                     "color": "transparent",
                     "label": "Second Section",
-                    "action": "[invalidate:content|replace:content:tabs:https://benzac-de.github.io/msx/data/extended/list3_section1.json]"
+                    "action": "[invalidate:content|replace:content:tabs:https://tisaser.github.io/msx/data/extended/list3_section1.json]"
                 },
                 {
                     "type": "default",
                     "layout": "6,2,3,1",
                     "color": "msx-white-soft",
                     "label": "{col:msx-black}Third Section",
-                    "action": "[invalidate:content|replace:content:tabs:https://benzac-de.github.io/msx/data/extended/list3_section2.json]"
+                    "action": "[invalidate:content|replace:content:tabs:https://tisaser.github.io/msx/data/extended/list3_section2.json]"
                 },
                 {
                     "type": "default",
                     "layout": "9,2,3,1",
                     "color": "transparent",
                     "label": "Fourth Section",
-                    "action": "[invalidate:content|replace:content:tabs:https://benzac-de.github.io/msx/data/extended/list3_section3.json]"
+                    "action": "[invalidate:content|replace:content:tabs:https://tisaser.github.io/msx/data/extended/list3_section3.json]"
                 }
             ]
         },

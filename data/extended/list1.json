@@ -110,7 +110,7 @@
                     "selection": {
                         "headline": "First Page {chr:ndash} Show All {txt:msx-white-soft:(30)}"
                     },
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/sublist1.json"
+                    "action": "content:https://tisaser.github.io/msx/data/extended/sublist1.json"
                 }
             ]
         },
@@ -197,7 +197,7 @@
                     "selection": {
                         "headline": "Second Page {chr:ndash} Show All {txt:msx-white-soft:(30)}"
                     },
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/sublist1.json"
+                    "action": "content:https://tisaser.github.io/msx/data/extended/sublist1.json"
                 }
             ]
         },
@@ -284,7 +284,7 @@
                     "selection": {
                         "headline": "Third Page {chr:ndash} Show All {txt:msx-white-soft:(30)}"
                     },
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/sublist1.json"
+                    "action": "content:https://tisaser.github.io/msx/data/extended/sublist1.json"
                 }
             ]
         },
@@ -364,7 +364,7 @@
                     "selection": {
                         "headline": "First Subpage {chr:ndash} Show All {txt:msx-white-soft:(30)}"
                     },
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/sublist1.json"
+                    "action": "content:https://tisaser.github.io/msx/data/extended/sublist1.json"
                 }
             ]
         },
@@ -451,7 +451,7 @@
                     "selection": {
                         "headline": "Fourth Page {chr:ndash} Show All {txt:msx-white-soft:(30)}"
                     },
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/sublist1.json"
+                    "action": "content:https://tisaser.github.io/msx/data/extended/sublist1.json"
                 }
             ]
         },
@@ -538,7 +538,7 @@
                     "selection": {
                         "headline": "Fifth Page {chr:ndash} Show All {txt:msx-white-soft:(30)}"
                     },
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/sublist1.json"
+                    "action": "content:https://tisaser.github.io/msx/data/extended/sublist1.json"
                 }
             ]
         },
@@ -625,7 +625,7 @@
                     "selection": {
                         "headline": "Sixth Page {chr:ndash} Show All {txt:msx-white-soft:(30)}"
                     },
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/sublist1.json"
+                    "action": "content:https://tisaser.github.io/msx/data/extended/sublist1.json"
                 }
             ]
         },
@@ -705,7 +705,7 @@
                     "selection": {
                         "headline": "Second Subpage {chr:ndash} Show All {txt:msx-white-soft:(30)}"
                     },
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/sublist1.json"
+                    "action": "content:https://tisaser.github.io/msx/data/extended/sublist1.json"
                 }
             ]
         },
@@ -792,7 +792,7 @@
                     "selection": {
                         "headline": "Seventh Page {chr:ndash} Show All {txt:msx-white-soft:(30)}"
                     },
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/sublist1.json"
+                    "action": "content:https://tisaser.github.io/msx/data/extended/sublist1.json"
                 }
             ]
         },
